@@ -1,0 +1,3 @@
+In this level I was required to install MetaMask as an extension on my browser this was very easy as I just have to click a link and chrome extention store was open I clicked install and it was done,
+After the installation I did the setup which require me to setup an my MetaMask wallet and get a passcode was very easy as I had to download a txt file with my passcode then store it and type in the text to setup my account .
+End of step 1.
